@@ -1,0 +1,7 @@
+	Be very careful when opening this file. It WILL force you to restart your computer. It won't cause any damage, though. If you don't restart your computer, it may crash.
+Always be careful when downloading files from the internet. I will not take any responsibility for any damages done to your computer. I have tested this many times. The file
+that this virus is contained in is popups.bat, and the shortcut is "Popups Virus". If you want to see the coding for this, enable hidden files, and change the .bat extenion to .txt, and open it.
+Another way to stop this is to open up task manager, and close notepad.
+
+My point is: OPEN AT YOUR OWN RISK!!!!!!
+
